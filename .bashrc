@@ -100,6 +100,7 @@ alias cald='cal -a; cal -t'
 alias calw='cal -d 7; cal -t'
 alias rin='gnome-extensions disable ubuntu-appindicators@ubuntu.com; gnome-extensions enable ubuntu-appindicators@ubuntu.com'
 alias fff='python3 ~/Projects/Python/Finance/program.py'
+alias violet='java -jar violet-0.16c.jar'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert

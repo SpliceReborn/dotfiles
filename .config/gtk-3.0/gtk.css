@@ -1,0 +1,7 @@
+@import 'colors.css';
+VteTerminal,
+TerminalScreen,
+vte-terminal {
+    padding: 100px;
+    -VteTerminal-inner-border: 100px;
+}
