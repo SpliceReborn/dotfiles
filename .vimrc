@@ -27,6 +27,7 @@ Plug 'git@github.com:kien/ctrlp.vim.git'
 Plug 'Valloric/YouCompleteMe'
 Plug 'mbbill/undotree'
 Plug 'preservim/nerdtree'
+Plug 'dart-lang/dart-vim-plugin'
 
 call plug#end()
 
